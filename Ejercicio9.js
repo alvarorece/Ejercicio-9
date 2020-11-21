@@ -28,7 +28,7 @@ class Controller {
                     this.visibilityCloudsParagraph($('visibility', placeMeteo).attr('value'), $('clouds', placeMeteo).attr('value')),
                     this.sunriseSunsetParagraph($('sun', placeMeteo).attr('rise'), $('sun', placeMeteo).attr('set')),
                     this.lastUpdateParagraph($('lastupdate', placeMeteo).attr('value')),
-                    this.precipitationParagraph($('precipitation',placeMeteo).attr('mode'),$('precipitation',placeMeteo).attr('value')));
+                    this.precipitationParagraph($('precipitation', placeMeteo).attr('mode'), $('precipitation', placeMeteo).attr('value')));
                 return section;
             })));
     }
