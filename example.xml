@@ -1,0 +1,22 @@
+<current>
+    <city id="2519373" name="Cofrentes">
+        <coord lon="-1.06" lat="39.23"></coord>
+        <country>ES</country>
+        <timezone>3600</timezone>
+        <sun rise="2020-11-21T06:54:48" set="2020-11-21T16:45:57"></sun>
+    </city>
+    <temperature value="9.81" min="8.89" max="11.67" unit="celsius"></temperature>
+    <feels_like value="8.41" unit="celsius"></feels_like>
+    <humidity value="73" unit="%"></humidity>
+    <pressure value="1027" unit="hPa"></pressure>
+    <wind>
+        <speed value="0.45" unit="m/s" name="Calm"></speed>
+        <gusts value="2.24"></gusts>
+        <direction value="77" code="ENE" name="East-northeast"></direction>
+    </wind>
+    <clouds value="2" name="clear sky"></clouds>
+    <visibility value="10000"></visibility>
+    <precipitation mode="no"></precipitation>
+    <weather number="800" value="cielo claro" icon="01n"></weather>
+    <lastupdate value="2020-11-21T18:00:00"></lastupdate>
+</current>
